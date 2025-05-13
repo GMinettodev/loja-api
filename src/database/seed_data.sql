@@ -1,5 +1,7 @@
+-- Seleciona o banco
 USE loja_db;
 
+-- Inserção de dados de exemplo
 INSERT INTO
     products (name, price, stock)
 VALUES
